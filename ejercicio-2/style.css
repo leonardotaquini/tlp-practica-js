@@ -1,0 +1,17 @@
+.card-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    width: 100vw;
+}
+
+.card-custom{
+    width: 18rem;
+
+}
+.card-img{
+    height: 200px!important;
+    object-fit: cover;
+
+}
